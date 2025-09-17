@@ -12,7 +12,7 @@ import numpy as np # Package to support data types
 import seaborn as sns # Package to support heatmap plots
 from scipy.stats import zscore # Needed to perform z-score normalization
 
-__author__ = "Please enter your name here"
+__author__ = "Anusha"
 __version__ = "1.1.0"
 '''
 Github Username: 
